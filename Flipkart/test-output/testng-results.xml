@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-14T16:24:45 IST" name="Default suite" finished-at="2023-02-14T16:25:04 IST" duration-ms="19408">
+    <groups>
+    </groups>
+    <test started-at="2023-02-14T16:24:45 IST" name="Default test" finished-at="2023-02-14T16:25:04 IST" duration-ms="19408">
+      <class name="testNg.TestNG">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:45 IST" name="beforeclass" finished-at="2023-02-14T16:24:47 IST" duration-ms="2296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:47 IST" name="beforeMethod" finished-at="2023-02-14T16:24:53 IST" duration-ms="6043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFlipkartLoginPage()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:53 IST" name="verifyFlipkartLoginPage" finished-at="2023-02-14T16:24:54 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartLoginPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:54 IST" name="afterMethod" finished-at="2023-02-14T16:24:56 IST" duration-ms="1746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:56 IST" name="beforeMethod" finished-at="2023-02-14T16:24:57 IST" duration-ms="1347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyFlipkartAddToCartProduct()[pri:1, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:24:57 IST" name="verifyFlipkartAddToCartProduct" finished-at="2023-02-14T16:25:02 IST" duration-ms="4605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlipkartAddToCartProduct -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:25:02 IST" name="afterMethod" finished-at="2023-02-14T16:25:04 IST" duration-ms="1911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNg.TestNG@3daa422a]" started-at="2023-02-14T16:25:04 IST" name="afterClass" finished-at="2023-02-14T16:25:04 IST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNg.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
